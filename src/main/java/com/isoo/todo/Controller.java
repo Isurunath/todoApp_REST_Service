@@ -28,6 +28,7 @@ public class Controller {
 	public User validateLogin() {
 		return new User("User successfully authenticated!");
 		//iam swagger branch!
+		//iam master
 	}
 	
 	@GetMapping("/getall")
